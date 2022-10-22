@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://huli-fox.github.io/manifest.json</loc>
+    <loc>https://blog.hulifox.ml/manifest.json</loc>
     
     <lastmod>2022-10-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://huli-fox.github.io/posts/4a17b156/</loc>
+    <loc>https://blog.hulifox.ml/posts/4a17b156/</loc>
     
     <lastmod>2022-10-16</lastmod>
     
@@ -21,8 +21,8 @@
   
 
   <url>
-    <loc>https://huli-fox.github.io/</loc>
-    <lastmod>2022-10-18</lastmod>
+    <loc>https://blog.hulifox.ml/</loc>
+    <lastmod>2022-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

@@ -3,11 +3,11 @@
   <title>Foxtail</title>
   
   <subtitle>狐狸的大尾巴</subtitle>
-  <link href="https://huli-fox.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.hulifox.ml/atom.xml" rel="self"/>
   
-  <link href="https://huli-fox.github.io/"/>
+  <link href="https://blog.hulifox.ml/"/>
   <updated>2022-10-16T11:48:52.942Z</updated>
-  <id>https://huli-fox.github.io/</id>
+  <id>https://blog.hulifox.ml/</id>
   
   <author>
     <name>Huli_fox</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://huli-fox.github.io/posts/4a17b156/"/>
-    <id>https://huli-fox.github.io/posts/4a17b156/</id>
+    <link href="https://blog.hulifox.ml/posts/4a17b156/"/>
+    <id>https://blog.hulifox.ml/posts/4a17b156/</id>
     <published>2022-10-16T11:25:58.350Z</published>
     <updated>2022-10-16T11:48:52.942Z</updated>
     
