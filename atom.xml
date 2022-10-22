@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Foxtail</title>
+  
+  <subtitle>狐狸的大尾巴</subtitle>
+  <link href="https://blog.hulifox.ml/atom.xml" rel="self"/>
+  
+  <link href="https://blog.hulifox.ml/"/>
+  <updated>2022-10-22T07:41:02.527Z</updated>
+  <id>https://blog.hulifox.ml/</id>
+  
+  <author>
+    <name>Huli_fox</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.hulifox.ml/posts/fbb63e47/"/>
+    <id>https://blog.hulifox.ml/posts/fbb63e47/</id>
+    <published>2022-10-22T07:18:30.000Z</published>
+    <updated>2022-10-22T07:41:02.527Z</updated>
+    
+    <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1419191927&auto=0&height=66"></iframe></p><h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello."></a>Hello.</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=1</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
